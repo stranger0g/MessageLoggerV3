@@ -4,8 +4,8 @@
  * @invite NYvWdN5
  * @donate https://paypal.me/lighty13
  * @website https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2
- * @source https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
- * @updateUrl https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
+ * @source https://github.com/stranger0g/MessageLoggerV3/blob/main/MessageLoggerV3.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/stranger0g/MessageLoggerV3/main/MessageLoggerV3.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
